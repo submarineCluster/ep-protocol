@@ -1,4 +1,4 @@
-module github.com/submarineCluster/protocol
+module github.com/submarineCluster/ep-protocol
 
 go 1.15
 
